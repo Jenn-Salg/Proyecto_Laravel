@@ -1,0 +1,17 @@
+body{
+    background-color: #fcfcda;
+    text-align: center;
+}
+
+.container-fluid{
+    background-color: #d2bead;    
+}
+
+title{
+    color: white;   
+}
+table,th,td{
+    text-align: center;
+    border: 1px solid #d2bead;
+    border-collapse:collapse;
+}

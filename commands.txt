@@ -1,0 +1,6 @@
+php artisan migrate:fresh
+npm install vite --save-dev
+npm run dev
+
+
+crear base de datos directo en el gestor (si es que no existe ya, debe llamarse laravel)
